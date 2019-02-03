@@ -1,7 +1,3 @@
-# async-demo
-Learning Synchronous vs Asynchronous on Node.js 
-
-#code:
 //Synchronous
 
 console.log('-----Synchronous-----');
@@ -17,18 +13,3 @@ setTimeout(()=>{
     console.log('Reading User From a database......');
 }, 2000)
 console.log('After');
-
-
-#output:
-
------Synchronous-----
-Before
-After
------Asynchronous-----
-Before
-After
-Reading User From a database......
-
-
-
-www.kodekodean.com
