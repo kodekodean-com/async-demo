@@ -1,10 +1,10 @@
 # async-demo
 Learning Synchronous vs Asynchronous on Node.js  
 
-##Callback
+## Callback
 
 
-#code:
+# code:
 
 //Asynchronous
 console.log('Before');
@@ -30,10 +30,10 @@ function getRepositories(username, callback){
         console.log('Reading repositories by username:'+username);
         callback(['repo1','repo2','repo3']);
     },2000);
-}
+}git
 
 
-#output:
+# output:
 
 Before
 After
