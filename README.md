@@ -29,6 +29,10 @@ Before
 After
 Reading User From a database......
 
+we will learn about
 
+##Callback
+##Promises
+##Async/await
 
 www.kodekodean.com
