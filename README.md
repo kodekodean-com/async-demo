@@ -4,7 +4,7 @@ Learning Synchronous vs Asynchronous on Node.js
 ## Callback
 
 
-# code:
+### code:
 ```
 //Asynchronous
 console.log('Before');
@@ -34,7 +34,7 @@ function getRepositories(username, callback){
 ```
 
 
-# output:
+### output:
 ```
 Before
 After
