@@ -34,14 +34,14 @@ function getRepositories(username, callback){
 ```
 
 
-#output:
-
+# output:
+```
 Before
 After
 Reading User From a database......
 Reading repositories by username:rxs1
 Repo [ 'repo1', 'repo2', 'repo3' ]
-
+```
 we will learn about
 
 
