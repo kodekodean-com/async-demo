@@ -5,7 +5,7 @@ Learning Synchronous vs Asynchronous on Node.js
 
 
 # code:
-
+'''
 //Asynchronous
 console.log('Before');
 getUser(1, (user) => {
@@ -31,7 +31,7 @@ function getRepositories(username, callback){
         callback(['repo1','repo2','repo3']);
     },2000);
 }git
-
+'''
 
 # output:
 
